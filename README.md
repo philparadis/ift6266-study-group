@@ -6,11 +6,10 @@ The study group is organizer by Philippe Paradis. Feel free to email me any time
 
 The organization of the schedule and delegations of tasks and reading resources is done via a shared Google Spreadsheet. If you are a member of the group, you have read and write access to this file, so please enter your initials to take responsability for some of the material.
 
-Link for study group contributors:
-https://docs.google.com/spreadsheets/d/1TxafxRIguxNKqRCKl_pahTTDqA7n19OiKEEX_WrbiBM/edit?usp=sharing
+Read-only link for Study Group spreasheet where everything is organized:
+https://docs.google.com/spreadsheets/d/1TxafxRIguxNKqRCKl_pahTTDqA7n19OiKEEX_WrbiBM/pubhtml#
 
-Link for general public:
-https://docs.google.com/spreadsheets/d/1TxafxRIguxNKqRCKl_pahTTDqA7n19OiKEEX_WrbiBM/edit
+Send me an email or message and I will invite you to join the group!
 
 ## Meeting minutes
 If you are responsible to take notes during a meeting, please add a new file to this repository, as a text file (preferably), within the subfolder:
